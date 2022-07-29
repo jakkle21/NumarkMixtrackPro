@@ -801,4 +801,3 @@ NumarkMixTrackPro.effectunitToggle = function(channel, control, value, status, g
     }
 }
 
-
